@@ -28,7 +28,7 @@ h1 {
     font-weight: 700;
 }
 
-.h2 {
+button {
     color: var(--purple-dark);
     font-size: 1.125rem;
     font-weight: 600;
