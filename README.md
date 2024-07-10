@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/accordion-faq-page-5_KKVVqrix](https://www.frontendmentor.io/solutions/accordion-faq-page-5_KKVVqrix)
 - Live Site URL: [https://digigrrl525.github.io/FM-FAQ-Accordion-Main/](https://digigrrl525.github.io/FM-FAQ-Accordion-Main/)
 
 ## My process
